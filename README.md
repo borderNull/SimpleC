@@ -1,2 +1,3 @@
 # SimpleC
-theres would be simple C programs for learning 
+
+for using  clone in your computer and click on debug or release exe file inside 
